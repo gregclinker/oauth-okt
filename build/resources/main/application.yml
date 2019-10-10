@@ -1,0 +1,9 @@
+okta:
+  oauth2:
+    issuer: https://dev-892998.okta.com/oauth2/default
+    client-id: 0oa1jsz5tcMNOhAld357
+    client-secret: gCPVBZu5Z6LgL6vzPcP6t2V4rWfJXoVuz0HIeZdT
+    redirect-uri: /authorization-code/callback
+spring:
+  thymeleaf:
+    cache: false
